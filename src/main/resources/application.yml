@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+yaml:
+  name: foo
+  aliases:
+    - abc
+    - xyz
+
+ignoreFilenames: madhav, dill, devi, druvin, dhatri
